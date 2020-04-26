@@ -1,5 +1,5 @@
 
-# The function makeVector creates a special “matrix” object which
+# The function makeVector creates a special "matrix" object which
 # is really a list containing a function to set and get the value 
 # of the vector and the mean. The "matrix" object caches its inverse.
 
